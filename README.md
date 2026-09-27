@@ -6,6 +6,7 @@
   <a href="https://github.com/ishandutta2007/Awesome-Aircraft-Maintenance-Management/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Aircraft-Maintenance-Management?style=flat-square&color=blue" alt="GitHub Forks"/></a>
   <a href="https://github.com/ishandutta2007/Awesome-Aircraft-Maintenance-Management/pulls"><img src="https://img.shields.io/badge/PRs-Welcome-brightgreen.svg?style=flat-square" alt="PRs Welcome"/></a>
   <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg?style=flat-square" alt="License"/></a>
+  <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
 </p>
 
 <p align="center">
@@ -31,7 +32,9 @@ Whether you manage a commercial airline fleet, an FAA/EASA Part 145 repair stati
 - [💡 How to Choose an Aircraft Maintenance System](#-how-to-choose-an-aircraft-maintenance-system)
 - [🤝 How to Contribute](#-how-to-contribute)
 - [❓ Frequently Asked Questions (FAQ)](#-frequently-asked-questions-faq)
+- [💖 Support \& Community](#-support--community)
 - [⚖️ Regulatory Disclaimer](#-regulatory-disclaimer)
+- [📈 Star History](#-star-history)
 
 ---
 
@@ -148,11 +151,29 @@ Contributions are welcome! Please follow these simple steps:
 
 ---
 
+## 💖 Support & Community
+
+Thank you for exploring **Awesome Aircraft Maintenance Management**! If you find this directory helpful, please consider starring ⭐ the repository, forking 🍴 it, or sharing it with fellow aviation professionals and developers.
+
+If you'd like to support the ongoing maintenance and curation of open-source projects, feel free to sponsor via the [GitHub Sponsor Dashboard](https://github.com/sponsors/ishandutta2007) ☕!
+
+<p align="center">
+  <a href="https://github.com/sponsors/ishandutta2007"><img src="https://img.shields.io/badge/Sponsor-GitHub-ea4aaa?style=for-the-badge&logo=github-sponsors&logoColor=white" alt="Sponsor GitHub"/></a>
+</p>
+
+---
+
 ## ⚖️ Regulatory Disclaimer
 
 - This directory is **community-curated** for informational and educational purposes.
 - All aircraft maintenance software used in operational environments must comply with relevant civil aviation authority regulations (e.g., FAA, EASA, Transport Canada, CASA).
 - Always verify airworthiness data against official manufacturer maintenance manuals and regulatory directive publications.
+
+---
+
+## 📈 Star History
+
+[![Star History Chart](https://star-history.dera.page/svg?repos=ishandutta2007/Awesome-Aircraft-Maintenance-Management&type=date&legend=top-left)](https://star-history.dera.page/#ishandutta2007/Awesome-Aircraft-Maintenance-Management&type=date&legend=top-left)
 
 ---
 
